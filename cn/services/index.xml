@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>业务范围 on 聚酷</title>
+    <link>https://idurian.github.io/cn/services/</link>
+    <description>Recent content in 业务范围 on 聚酷</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="https://idurian.github.io/cn/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>市场分析选品</title>
+      <link>https://idurian.github.io/cn/services/content1/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://idurian.github.io/cn/services/content1/</guid>
+      <description>行业与市场分析，并以亚马逊卖家角度选品（借助大数据工具），确定有竞争机会的细分产品。</description>
+    </item>
+    
+    <item>
+      <title>销售渠道管控</title>
+      <link>https://idurian.github.io/cn/services/content6/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://idurian.github.io/cn/services/content6/</guid>
+      <description>销售渠道管控，保证产品生命周期。</description>
+    </item>
+    
+    <item>
+      <title>产品定义</title>
+      <link>https://idurian.github.io/cn/services/content2/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>https://idurian.github.io/cn/services/content2/</guid>
+      <description>结合目标市场、竞品、技术发展趋势，做出可差异化竞争产品。</description>
+    </item>
+    
+    <item>
+      <title>产品设计及研发</title>
+      <link>https://idurian.github.io/cn/services/content4/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      
+      <guid>https://idurian.github.io/cn/services/content4/</guid>
+      <description>ID设计、电子方案/App方案、结构设计、功能测试、可靠性测试等。</description>
+    </item>
+    
+    <item>
+      <title>成本分析</title>
+      <link>https://idurian.github.io/cn/services/content3/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
+      
+      <guid>https://idurian.github.io/cn/services/content3/</guid>
+      <description>产品成本、头程、亚马逊扣款、FBA打包费，为跨境电商卖家考虑所有硬成本。</description>
+    </item>
+    
+    <item>
+      <title>生产制造及供应链管理</title>
+      <link>https://idurian.github.io/cn/services/content5/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>https://idurian.github.io/cn/services/content5/</guid>
+      <description>试产分析、量产数据分析等。</description>
+    </item>
+    
+  </channel>
+</rss>
