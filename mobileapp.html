@@ -55,6 +55,7 @@
     function goDownload() {
       const iosLinkUrl = "苹果链接"
       const androidLinkurl = "安卓链接"
+      const yingyongbaoUrl = "应用宝"
       const huaweiUrl = 'appmarket://details?id=com.xx.xxx'
       const oppoUrl = "oppomarket://details?packagename=com.xx.xxx"
       const vivoUrl = "vivomarket://details?id=com.xx.xxx"
@@ -81,7 +82,7 @@
             downLoadUrl(oppoUrl)
             break
           default:
-            downLoadUrl(androidLinkurl)
+            downLoadUrl(yingyongbaoUrl)
             break
         }
       } else {
