@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>应用下载</title>
+  <script>
+    function getLang() {
+      let browserLang = navigator.language
+        ? navigator.language
+        : navigator.browserLanguage;
+      let defaultBrowserLang = "";
+      if (
+        browserLang.toLowerCase() === "zh-cn" ||
+        browserLang.toLowerCase() === "zh"
+      ) {
+        defaultBrowserLang = "zh";
+      } else {
+        defaultBrowserLang = browserLang;
+      }
+      return defaultBrowserLang;
+    }
+
+    function judeBrand() {
+      const userAgent = navigator.userAgent.toLowerCase()
+      const isIphone = userAgent.match(/(iphone|ipad|ipod)/i);
+      const isHuawei = userAgent.match(/huawei/i);
+      const isHonor = userAgent.match(/honor/i);
+      const isOppo = userAgent.match(/oppo/i);
+      const isOppoR15 = userAgent.match(/pacm00/i);
+      const isVivo = userAgent.match(/vivo/i);
+      const isXiaomi = userAgent.match(/mi\s/i);
+      const isXIAOMI = userAgent.match(/xiaomi/i);
+      const isXiaomi2s = userAgent.match(/mix\s/i);
+      const isRedmi = userAgent.match(/redmi/i);
+
+      if (isIphone) {
+        return 'iphone'
+      } else if (isHuawei || isHonor) {
+        return 'huawei';
+      } else if (isOppo || isOppoR15) {
+        return 'oppo';
+      } else if (isVivo) {
+        return 'vivo';
+      } else if (isXiaomi || isRedmi || isXiaomi2s || isXIAOMI) {
+        return 'xiaomi';
+      } else {
+        return 'other'
+      }
+    }
+
+    function downLoadUrl(url) {
+      location.href = url;
+    }
+
+    function goDownload() {
+      const iosLinkUrl = "苹果链接"
+      const androidLinkurl = "安卓链接"
+      const huaweiUrl = 'appmarket://details?id=com.xx.xxx'
+      const oppoUrl = "oppomarket://details?packagename=com.xx.xxx"
+      const vivoUrl = "vivomarket://details?id=com.xx.xxx"
+      const xiaomiUrl = 'mimarket://details?id=com.xx.xxx'
+      let brand = judeBrand();
+      let lang = getLang();
+
+      if (brand == 'iphone') {
+      } else if (lang == 'zh') {
+        switch (judeBrand()) {
+          case 'iphone':
+            downLoadUrl(iosLinkUrl)
+            break
+          case 'xiaomi':
+            downLoadUrl(xiaomiUrl)
+            break
+          case 'huawei':
+            downLoadUrl(huaweiUrl)
+            break
+          case 'vivo':
+            downLoadUrl(vivoUrl)
+            break
+          case 'oppo':
+            downLoadUrl(oppoUrl)
+            break
+          default:
+            downLoadUrl(androidLinkurl)
+            break
+        }
+      } else {
+        downLoadUrl(androidLinkurl)
+      }
+    }
+
+    goDownload();
+  </script>
+</head>
+
+</html>
