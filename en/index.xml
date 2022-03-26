@@ -8,11 +8,11 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate><atom:link href="https://idurian.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>唤醒灯 - 唤醒灯一代</title>
-      <link>https://idurian.github.io/en/work/lightv1/</link>
+      <title>唤醒灯二代</title>
+      <link>https://idurian.github.io/en/work/light/lightv2/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://idurian.github.io/en/work/lightv1/</guid>
+      <guid>https://idurian.github.io/en/work/light/lightv2/</guid>
       <description></description>
     </item>
     
@@ -26,11 +26,20 @@
     </item>
     
     <item>
-      <title>大屏闹钟</title>
-      <link>https://idurian.github.io/en/work/alarm-clock/</link>
+      <title>唤醒灯一代</title>
+      <link>https://idurian.github.io/en/work/light/lightv1/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://idurian.github.io/en/work/alarm-clock/</guid>
+      <guid>https://idurian.github.io/en/work/light/lightv1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>大屏闹钟</title>
+      <link>https://idurian.github.io/en/work/alarm-clock/alarm-clock/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://idurian.github.io/en/work/alarm-clock/alarm-clock/</guid>
       <description></description>
     </item>
     
@@ -44,38 +53,38 @@
     </item>
     
     <item>
-      <title>氛围灯-拱形氛围灯</title>
-      <link>https://idurian.github.io/en/work/dome-light/</link>
+      <title>拱形氛围灯</title>
+      <link>https://idurian.github.io/en/work/dome-light/dome-light/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://idurian.github.io/en/work/dome-light/</guid>
+      <guid>https://idurian.github.io/en/work/dome-light/dome-light/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>车载无线充-磁吸无线充电动支架</title>
-      <link>https://idurian.github.io/en/work/charger/</link>
+      <title>磁吸无线充电动支架</title>
+      <link>https://idurian.github.io/en/work/car-charger/charger/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://idurian.github.io/en/work/charger/</guid>
+      <guid>https://idurian.github.io/en/work/car-charger/charger/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>智能手机配件-防丢器</title>
-      <link>https://idurian.github.io/en/work/tracker/</link>
+      <title>防丢器</title>
+      <link>https://idurian.github.io/en/work/mobile-accessories/tracker/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://idurian.github.io/en/work/tracker/</guid>
+      <guid>https://idurian.github.io/en/work/mobile-accessories/tracker/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>视频监控类-智能门铃</title>
-      <link>https://idurian.github.io/en/work/doorbell/</link>
+      <title>智能门铃</title>
+      <link>https://idurian.github.io/en/work/monitor/doorbell/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://idurian.github.io/en/work/doorbell/</guid>
+      <guid>https://idurian.github.io/en/work/monitor/doorbell/</guid>
       <description></description>
     </item>
     

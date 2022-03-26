@@ -2,17 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://idurian.github.io/cn/work/lightv1/</loc>
+    <loc>https://idurian.github.io/cn/work/light/lightv2/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://idurian.github.io/en/work/lightv1/"
+                href="https://idurian.github.io/en/work/light/lightv2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://idurian.github.io/cn/work/lightv1/"
+                href="https://idurian.github.io/cn/work/light/lightv2/"
+                />
+  </url><url>
+    <loc>https://idurian.github.io/cn/work/light/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idurian.github.io/en/work/light/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://idurian.github.io/cn/work/light/"
                 />
   </url><url>
     <loc>https://idurian.github.io/cn/services/content1/</loc>
@@ -28,6 +41,19 @@
                 href="https://idurian.github.io/cn/services/content1/"
                 />
   </url><url>
+    <loc>https://idurian.github.io/cn/work/light/lightv1/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idurian.github.io/en/work/light/lightv1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://idurian.github.io/cn/work/light/lightv1/"
+                />
+  </url><url>
     <loc>https://idurian.github.io/cn/services/content6/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
     <xhtml:link
@@ -41,8 +67,21 @@
                 href="https://idurian.github.io/cn/services/content6/"
                 />
   </url><url>
+    <loc>https://idurian.github.io/cn/work/alarm-clock/alarm-clock/</loc>
+    <lastmod>2019-11-18T12:33:46+10:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idurian.github.io/en/work/alarm-clock/alarm-clock/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://idurian.github.io/cn/work/alarm-clock/alarm-clock/"
+                />
+  </url><url>
     <loc>https://idurian.github.io/cn/work/alarm-clock/</loc>
-    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+    <lastmod>2019-11-18T12:33:46+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -52,6 +91,19 @@
                 rel="alternate"
                 hreflang="cn"
                 href="https://idurian.github.io/cn/work/alarm-clock/"
+                />
+  </url><url>
+    <loc>https://idurian.github.io/cn/work/dome-light/dome-light/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idurian.github.io/en/work/dome-light/dome-light/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://idurian.github.io/cn/work/dome-light/dome-light/"
                 />
   </url><url>
     <loc>https://idurian.github.io/cn/work/dome-light/</loc>
@@ -67,43 +119,82 @@
                 href="https://idurian.github.io/cn/work/dome-light/"
                 />
   </url><url>
-    <loc>https://idurian.github.io/cn/work/charger/</loc>
+    <loc>https://idurian.github.io/cn/work/car-charger/charger/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://idurian.github.io/en/work/charger/"
+                href="https://idurian.github.io/en/work/car-charger/charger/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://idurian.github.io/cn/work/charger/"
+                href="https://idurian.github.io/cn/work/car-charger/charger/"
                 />
   </url><url>
-    <loc>https://idurian.github.io/cn/work/tracker/</loc>
+    <loc>https://idurian.github.io/cn/work/car-charger/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://idurian.github.io/en/work/tracker/"
+                href="https://idurian.github.io/en/work/car-charger/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://idurian.github.io/cn/work/tracker/"
+                href="https://idurian.github.io/cn/work/car-charger/"
                 />
   </url><url>
-    <loc>https://idurian.github.io/cn/work/doorbell/</loc>
+    <loc>https://idurian.github.io/cn/work/mobile-accessories/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://idurian.github.io/en/work/doorbell/"
+                href="https://idurian.github.io/en/work/mobile-accessories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://idurian.github.io/cn/work/doorbell/"
+                href="https://idurian.github.io/cn/work/mobile-accessories/"
+                />
+  </url><url>
+    <loc>https://idurian.github.io/cn/work/mobile-accessories/tracker/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idurian.github.io/en/work/mobile-accessories/tracker/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://idurian.github.io/cn/work/mobile-accessories/tracker/"
+                />
+  </url><url>
+    <loc>https://idurian.github.io/cn/work/monitor/doorbell/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idurian.github.io/en/work/monitor/doorbell/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://idurian.github.io/cn/work/monitor/doorbell/"
+                />
+  </url><url>
+    <loc>https://idurian.github.io/cn/work/monitor/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idurian.github.io/en/work/monitor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://idurian.github.io/cn/work/monitor/"
                 />
   </url><url>
     <loc>https://idurian.github.io/cn/pages/</loc>
