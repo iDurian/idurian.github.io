@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>主页 on Jukuner</title>
+    <title>Homepage on Jukuner</title>
     <link>https://idurian.github.io/en/</link>
-    <description>Recent content in 主页 on Jukuner</description>
+    <description>Recent content in Homepage on Jukuner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate><atom:link href="https://idurian.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Market analysis selection</title>
+      <link>https://idurian.github.io/en/services/content1/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://idurian.github.io/en/services/content1/</guid>
+      <description>We will analysis industry and market and select products from the perspective of Amazon sellers (by big data tools) to identify segmented products with competitive opportunities.</description>
+    </item>
+    
     <item>
       <title>唤醒灯二代</title>
       <link>https://idurian.github.io/en/work/light/lightv2/</link>
@@ -17,12 +26,12 @@
     </item>
     
     <item>
-      <title>市场分析选品</title>
-      <link>https://idurian.github.io/en/services/content1/</link>
+      <title>Sales Channel Control</title>
+      <link>https://idurian.github.io/en/services/content6/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://idurian.github.io/en/services/content1/</guid>
-      <description>行业与市场分析，并以亚马逊卖家角度选品（借助大数据工具），确定有竞争机会的细分产品。</description>
+      <guid>https://idurian.github.io/en/services/content6/</guid>
+      <description>To ensure the product life cycle. We control the sale channels.</description>
     </item>
     
     <item>
@@ -41,15 +50,6 @@
       
       <guid>https://idurian.github.io/en/work/alarm-clock/alarm-clock/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>销售渠道管控</title>
-      <link>https://idurian.github.io/en/services/content6/</link>
-      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      
-      <guid>https://idurian.github.io/en/services/content6/</guid>
-      <description>销售渠道管控，保证产品生命周期。</description>
     </item>
     
     <item>
@@ -89,7 +89,7 @@
     </item>
     
     <item>
-      <title>关于我们</title>
+      <title>About Us</title>
       <link>https://idurian.github.io/en/about/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
@@ -98,48 +98,52 @@
     </item>
     
     <item>
-      <title>发展历程</title>
+      <title>History</title>
       <link>https://idurian.github.io/en/history/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
       <guid>https://idurian.github.io/en/history/</guid>
-      <description>2018年5月18日：公司成立 2018年10月：第一款产品唤醒灯上市 2019年：唤醒灯亚马逊市场占有率30%，产品扩展到智能闹钟、智能遥控器</description>
+      <description>May 18, 2018: Shenzhen Juku Intelligent Technology Co., Ltd was established
+October 2018: The first product wake-up light launched
+2019: Amazon market share of wake-up lights is 30%, and products are expanded to smart alarm clocks, smart remote controls, smartphone accessories and other product lines
+    2020: Become a well-known product provider in the smart home automation area
+2021: The 3rd wake-up lights launched, and the new ambient light series launched</description>
     </item>
     
     <item>
-      <title>产品定义</title>
+      <title>Product Definition</title>
       <link>https://idurian.github.io/en/services/content2/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
       <guid>https://idurian.github.io/en/services/content2/</guid>
-      <description>结合目标市场、竞品、技术发展趋势，做出可差异化竞争产品。</description>
+      <description>we can make differentiated and competitive products by combining the target market, competition, and technological development trends.</description>
     </item>
     
     <item>
-      <title>产品设计及研发</title>
+      <title>Product design and development</title>
       <link>https://idurian.github.io/en/services/content4/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
       
       <guid>https://idurian.github.io/en/services/content4/</guid>
-      <description>ID设计、电子方案/App方案、结构设计、功能测试、可靠性测试等。</description>
+      <description>It includes ID design, electronic scheme/app scheme, structural design, functional test, reliability test, etc.</description>
     </item>
     
     <item>
-      <title>成本分析</title>
+      <title>Cost Analysis</title>
       <link>https://idurian.github.io/en/services/content3/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
       
       <guid>https://idurian.github.io/en/services/content3/</guid>
-      <description>产品成本、头程、亚马逊扣款、FBA打包费，为跨境电商卖家考虑所有硬成本。</description>
+      <description>We will consider all the rigid Cost for international seller, including Product cost, the shipping fee to FBA warehouse, FBA packing fee.</description>
     </item>
     
     <item>
-      <title>生产制造及供应链管理</title>
+      <title>Manufacturing and Supply Chain Management</title>
       <link>https://idurian.github.io/en/services/content5/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
       <guid>https://idurian.github.io/en/services/content5/</guid>
-      <description>试产分析、量产数据分析等。</description>
+      <description>We will do trial production analysis, mass production data analysis, etc.</description>
     </item>
     
   </channel>

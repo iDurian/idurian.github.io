@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>业务范围 on Jukuner</title>
+    <title>Business Line on Jukuner</title>
     <link>https://idurian.github.io/en/services/</link>
-    <description>Recent content in 业务范围 on Jukuner</description>
+    <description>Recent content in Business Line on Jukuner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="https://idurian.github.io/en/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>市场分析选品</title>
+      <title>Market analysis selection</title>
       <link>https://idurian.github.io/en/services/content1/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
       <guid>https://idurian.github.io/en/services/content1/</guid>
-      <description>行业与市场分析，并以亚马逊卖家角度选品（借助大数据工具），确定有竞争机会的细分产品。</description>
+      <description>We will analysis industry and market and select products from the perspective of Amazon sellers (by big data tools) to identify segmented products with competitive opportunities.</description>
     </item>
     
     <item>
-      <title>销售渠道管控</title>
+      <title>Sales Channel Control</title>
       <link>https://idurian.github.io/en/services/content6/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
       <guid>https://idurian.github.io/en/services/content6/</guid>
-      <description>销售渠道管控，保证产品生命周期。</description>
+      <description>To ensure the product life cycle. We control the sale channels.</description>
     </item>
     
     <item>
-      <title>产品定义</title>
+      <title>Product Definition</title>
       <link>https://idurian.github.io/en/services/content2/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
       <guid>https://idurian.github.io/en/services/content2/</guid>
-      <description>结合目标市场、竞品、技术发展趋势，做出可差异化竞争产品。</description>
+      <description>we can make differentiated and competitive products by combining the target market, competition, and technological development trends.</description>
     </item>
     
     <item>
-      <title>产品设计及研发</title>
+      <title>Product design and development</title>
       <link>https://idurian.github.io/en/services/content4/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
       
       <guid>https://idurian.github.io/en/services/content4/</guid>
-      <description>ID设计、电子方案/App方案、结构设计、功能测试、可靠性测试等。</description>
+      <description>It includes ID design, electronic scheme/app scheme, structural design, functional test, reliability test, etc.</description>
     </item>
     
     <item>
-      <title>成本分析</title>
+      <title>Cost Analysis</title>
       <link>https://idurian.github.io/en/services/content3/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
       
       <guid>https://idurian.github.io/en/services/content3/</guid>
-      <description>产品成本、头程、亚马逊扣款、FBA打包费，为跨境电商卖家考虑所有硬成本。</description>
+      <description>We will consider all the rigid Cost for international seller, including Product cost, the shipping fee to FBA warehouse, FBA packing fee.</description>
     </item>
     
     <item>
-      <title>生产制造及供应链管理</title>
+      <title>Manufacturing and Supply Chain Management</title>
       <link>https://idurian.github.io/en/services/content5/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
       <guid>https://idurian.github.io/en/services/content5/</guid>
-      <description>试产分析、量产数据分析等。</description>
+      <description>We will do trial production analysis, mass production data analysis, etc.</description>
     </item>
     
   </channel>

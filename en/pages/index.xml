@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Dec 2018 09:29:16 +1000</lastBuildDate><atom:link href="https://idurian.github.io/en/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>关于我们</title>
+      <title>About Us</title>
       <link>https://idurian.github.io/en/about/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
@@ -17,12 +17,16 @@
     </item>
     
     <item>
-      <title>发展历程</title>
+      <title>History</title>
       <link>https://idurian.github.io/en/history/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
       <guid>https://idurian.github.io/en/history/</guid>
-      <description>2018年5月18日：公司成立 2018年10月：第一款产品唤醒灯上市 2019年：唤醒灯亚马逊市场占有率30%，产品扩展到智能闹钟、智能遥控器</description>
+      <description>May 18, 2018: Shenzhen Juku Intelligent Technology Co., Ltd was established
+October 2018: The first product wake-up light launched
+2019: Amazon market share of wake-up lights is 30%, and products are expanded to smart alarm clocks, smart remote controls, smartphone accessories and other product lines
+    2020: Become a well-known product provider in the smart home automation area
+2021: The 3rd wake-up lights launched, and the new ambient light series launched</description>
     </item>
     
   </channel>
