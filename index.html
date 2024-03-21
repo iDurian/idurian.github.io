@@ -1,299 +1,41 @@
 <!DOCTYPE html>
-<html>        
-    <style>
-        @media print {
-            h1 {page-break-before:always}
-        }
-        table {
-            max-width: 2480px;
-            width:100%;
-            max-height: 800px;
-            height: 100%;
-            table-layout:fixed;
-        }
-        table td{
-            width: auto;
-            overflow: hidden;
-            word-wrap: break-word;
-        }
-        table, th, td {
-            border: 1px solid black;
-            border-collapse: collapse;
-            font-weight: bold;
-        }
-        td {
-            width: 16%;
-            padding-left: 14px;
-            padding-right: 14px;
-        }
-        tr {
-            height: 30px;
-        }
-        input {
-            width: 100%;
-            height: 90%;
-            font-size: 18px;
-            text-align: center;
-            font-weight: bold;
-            border: 0px;
-        }
-    </style>
-    <table>
-        <tr style="height: 45px;">
-            <th colspan="4">
-                <p style="font-size: large;">
-                    JOIA FEF INDUSTRIAL (SU) LDA
-                </p>
-            </th>
-        </tr>
-        <tr>
-            <td>
-                Item No.：
-            </td>
-            <td colspan="3" style="text-align: center;">
-                FR0102N
-            </td>
-        </tr>
-        <tr>
-            <td>
-                Item Name：
-            </td>
-            <td colspan="3" style="text-align: center; font-size: 15px;">
-                LEG CUFF FOR BAY DIAPER
-            </td>
-        </tr>
-        <tr>
-            <td>
-                Description：
-            </td>
-            <td colspan="3">
-                <input style="font-size: 14px;" type="text" value="Spond bond ( SMMS,hydrophobic ), Pure soft, 13gsm, 285mm width">
-            </td>
-        </tr>
-        <tr>
-            <td style="width: 20%;">
-                Width (mm):
-            </td>
-            <td style="width: 30%;">
-                <input type="text" name="" id="" value="285 mm*3">
-            </td>
-            <td style="width: 20%;">
-                Length (m)::
-            </td>
-            <td style="width: 30%;">
-                <input type="text" name="" id="" value="4900 m*3">
-            </td>
-        </tr>
-        <tr>
-            <td>
-                PesoLiquido (kg):
-            </td>
-            <td>
-                <input type="text" name="" id="">
-            </td>
-            <td>
-                PesoBruto.(kg）:
-            </td>
-            <td>
-                <input type="text" name="" id="">
-            </td>
-        </tr>
-        <tr>
-            <td>
-                Date of Manuf：
-            </td>
-            <td>
-                <input type="text" name="" id="" value="2022.08.09">
-            </td>
-            <td>
-                Date of Expire：
-            </td>
-            <td>
-                <input type="text" name="" id="" value="2025.08.08">
-            </td>
-        </tr>
-        <tr>
-            <td>
-                Batch No.:
-            </td>
-            <td>
-                <input type="text" name="" id="" value="RH220608077">
-            </td>
-            <td>
-                Pack No.:
-            </td>
-            <td>
-                <input type="text" name="" id="index_value" value="" >
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2" style="text-align: center;">
-                <input type="text" value="Fabricado Em China">
-            </td>
-            <td colspan="2" style="text-align: center;">
-                <input type="text" value="Operational side Inward">
-            </td>
-        </tr>
-        <tr>
-            <td colspan="4" style="text-align: center;">
-                <p></p>
-                <img id="image_id" style="height: 40px; width: 50%; object-fit: none;" src="https://bwipjs-api.metafloor.com/?bcid=code128&text="+"barcode()">
-                <p>
-                    <input type="text" value="3220809050001" id="barcode_num">
-                </p>
-            </td>
-        </tr>
-    </table>
-    <p></p>
-    <table>
-        <tr style="height: 45px;">
-            <th colspan="4">
-                <p style="font-size: large;">
-                    JOIA FEF INDUSTRIAL (SU) LDA
-                </p>
-            </th>
-        </tr>
-        <tr>
-            <td>
-                Item No.：
-            </td>
-            <td colspan="3" style="text-align: center;">
-                FR0102N
-            </td>
-        </tr>
-        <tr>
-            <td>
-                Item Name：
-            </td>
-            <td colspan="3" style="text-align: center; font-size: 15px;">
-                LEG CUFF FOR BAY DIAPER
-            </td>
-        </tr>
-        <tr>
-            <td>
-                Description：
-            </td>
-            <td colspan="3">
-                <input style="font-size: 14px;" type="text" value="Spond bond ( SMMS,hydrophobic ), Pure soft, 13gsm, 285mm width">
-            </td>
-        </tr>
-        <tr>
-            <td style="width: 20%;">
-                Width (mm):
-            </td>
-            <td style="width: 30%;">
-                <input type="text" name="" id="" value="285 mm*3">
-            </td>
-            <td style="width: 20%;">
-                Length (m)::
-            </td>
-            <td style="width: 30%;">
-                <input type="text" name="" id="" value="4900 m*3">
-            </td>
-        </tr>
-        <tr>
-            <td>
-                PesoLiquido (kg):
-            </td>
-            <td>
-                <input type="text" name="" id="">
-            </td>
-            <td>
-                PesoBruto.(kg）:
-            </td>
-            <td>
-                <input type="text" name="" id="">
-            </td>
-        </tr>
-        <tr>
-            <td>
-                Date of Manuf：
-            </td>
-            <td>
-                <input type="text" name="" id="" value="2022.08.09">
-            </td>
-            <td>
-                Date of Expire：
-            </td>
-            <td>
-                <input type="text" name="" id="" value="2025.08.08">
-            </td>
-        </tr>
-        <tr>
-            <td>
-                Batch No.:
-            </td>
-            <td>
-                <input type="text" name="" id="" value="RH220608077">
-            </td>
-            <td>
-                Pack No.:
-            </td>
-            <td>
-                <input type="text" name="" id="index_2_value" value="" >
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2" style="text-align: center;">
-                <input type="text" value="Fabricado Em China">
-            </td>
-            <td colspan="2" style="text-align: center;">
-                <input type="text" value="Operational side Inward">
-            </td>
-        </tr>
-        <tr>
-            <td colspan="4" style="text-align: center;">
-                <p></p>
-                <img id="image_id_2" style="height: 40px; width: 50%; object-fit: none;" src="https://bwipjs-api.metafloor.com/?bcid=code128&text="+"barcode()">
-                <p>
-                    <input type="text" value="3220809050001" id="barcode_num_2">
-                </p>
-            </td>
-        </tr>
-    </table>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy</title>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
 
-    <script type = "text/javascript">
-        var current = 1
+    <p><strong>Effective Date:</strong> 2024-03-23</p>
 
-        function update() {
-            document.getElementById('index_value').value = '' + current
-            document.getElementById('barcode_num').value = document.getElementById('barcode_num').value.slice(0, -4) + ('000' + current).slice(-4)
-            document.getElementById('image_id').src = 'https://bwipjs-api.metafloor.com/?bcid=code128&text=' + document.getElementById('barcode_num').value
-            
-            document.getElementById('index_2_value').value = '' + (current + 1)
-            document.getElementById('barcode_num_2').value = document.getElementById('barcode_num').value.slice(0, -4) + ('000' + (current + 1)).slice(-4)
-            document.getElementById('image_id_2').src = 'https://bwipjs-api.metafloor.com/?bcid=code128&text=' + document.getElementById('barcode_num_2').value
-        }
+    <p>Our application respects and protects user privacy. This privacy policy explains how we collect, use, disclose, and manage user information.</p>
 
-        function barcode() {
-            return document.getElementById('barcode_num').value
-        }
+    <h2>Information Collection</h2>
 
-        document.getElementById('index_value').addEventListener("keyup", function(event) {
-            if (event.key === "Enter") {
-                current = parseInt(document.getElementById('index_value').value)
-                update()
-            }
-        })
+    <p>Our application does not directly collect any personally identifiable information. While using the application, we may collect and record some non-personally identifiable information for the purpose of improving user experience and providing support services.</p>
 
-        document.getElementById('barcode_num').addEventListener("keyup", function(event) {
-            if (event.key === "Enter") {
-                current = parseInt(document.getElementById('barcode_num').value.slice(-4))
-                update()
-            }
-        })
+    <h2>Use of Information</h2>
 
-        document.getElementById('barcode_num_2').addEventListener("keyup", function(event) {
-            if (event.key === "Enter") {
-                current = parseInt(document.getElementById('barcode_num_2').value.slice(-4)) - 1
-                update()
-            }
-        })
+    <p>The information we collect is used solely for internal analysis purposes, to improve our application and services, and to provide user support. We do not use user information for marketing or other purposes.</p>
 
+    <h2>Information Disclosure</h2>
 
-        update()
-    </script>
+    <p>We do not sell, trade, or otherwise transfer user information to third parties. We may share aggregated, non-personally identifiable information with third-party partners for statistical analysis and market research purposes.</p>
 
-</style>
+    <h2>Information Security</h2>
 
+    <p>We take reasonable security measures to protect the security of user information. However, please note that no data transmission over the internet can be guaranteed to be completely secure.</p>
+
+    <h2>Privacy Policy Updates</h2>
+
+    <p>We reserve the right to update this privacy policy at any time. We will notify users of any updates by posting updated versions of the privacy policy within our application.</p>
+
+    <h2>Contact Us</h2>
+
+    <p>If you have any questions or suggestions regarding this privacy policy, please contact us using the following contact information:</p>
+
+    <p>gaodongdong2012@gmail.com</p>
+</body>
 </html>
